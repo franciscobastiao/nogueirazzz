@@ -50,7 +50,7 @@ nav a:hover {
   margin: 20px auto;
   width: 180px;
   height: 180px;
-  border-radius: 50%;
+  border-radius: 12%;
   object-fit: cover;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
@@ -99,4 +99,5 @@ footer {
   font-size: 15px;
   margin-top: 40px;
   
+
 }
